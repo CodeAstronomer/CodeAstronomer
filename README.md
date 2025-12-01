@@ -4,7 +4,7 @@ I'm **David**, an IT specialist for application development based in Germany.
 
 I'm passionate about **servers** and **infrastructure**. I love architecting and maintaining robust systems that power applications.
 
-This is a fresh profile where I'll be sharing some smaller projects, experiments, and things I'm currently working on. Everything here is built from scratch, no copy/paste templates.
+This is my main profile where I'll be sharing some smaller projects, experiments, and things I'm currently working on. Everything here is built from scratch, no copy/paste templates.
 
 ---
 
@@ -13,7 +13,7 @@ This is a fresh profile where I'll be sharing some smaller projects, experiments
 * **TypeScript, Vue, Python**
 * **Swift** (basic knowledge)
 * **Go** (basic knowledge)
-* Figma (for design mockups)
+* Figma
 * Server and infrastructure tools
 
 ---
@@ -21,6 +21,6 @@ This is a fresh profile where I'll be sharing some smaller projects, experiments
 ## A Bit About Me
 
 * ☕ A coffee enthusiast
-* 🌌 Love astronomy—always looking up!
-* 🍥 Into anime—big fan of the genre
+* 🌌 Love astronomy — always looking up!
+* 🍥 Into anime — big fan
 * 🛠️ I enjoy building and maintaining reliable systems
